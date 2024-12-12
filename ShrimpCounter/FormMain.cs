@@ -393,6 +393,7 @@ namespace ShrimpCounter
         {
             if(activeForm != null)
                 activeForm.Close();
+                m_server.Stop();
         }
 
         //////////////////////////////////////////////////////////////////////////////////////////////////////////////
