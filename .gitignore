@@ -1,0 +1,16 @@
+ShrimpCounter/obj/
+lib/AltoControls/AltoControls/obj/
+lib/MiniHttpd/obj/
+ShrimpCounter/bin/
+.vs/
+QRcodeGenerator/bin/
+QRcodeGenerator/obj/
+YOLOcs/lib/
+YOLOcs/x64/
+yolov8cpp/lib/
+yolov8cpp/obj/
+yolov8cpp/x64/
+lib/MiniHttpd/bin/
+lib/AltoControls/AltoControls/bin/
+lib/System.Windows.Forms.Ribbon/bin/
+lib/System.Windows.Forms.Ribbon/obj/
